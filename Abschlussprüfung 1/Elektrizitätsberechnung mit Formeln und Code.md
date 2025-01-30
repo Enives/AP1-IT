@@ -1,4 +1,3 @@
-
 # Elektrizitätsberechnung mit Formeln und Code
 
 ## Gliederung:
