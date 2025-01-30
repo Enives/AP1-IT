@@ -19,6 +19,8 @@ Die elektrische Leistung beschreibt, wie viel Energie pro Zeiteinheit verbraucht
 
 **Formeln:**
 
+$P = U \cdot I$
+
 - **P** = Leistung (Watt)
 - **U** = Spannung (Volt)
 - **I** = Stromstärke (Ampere)
@@ -28,6 +30,8 @@ Die elektrische Leistung beschreibt, wie viel Energie pro Zeiteinheit verbraucht
 Elektrische Energie ist die Arbeit, die durch den elektrischen Strom über einen bestimmten Zeitraum verrichtet wird.
 
 **Formel:**
+
+$E = U \cdot I \cdot t$
 
 - **E** = Energie (Joule)
 - **P** = Leistung (Watt)
@@ -46,6 +50,8 @@ Für die Leistung bei Wechselstrom:
 Der Wirkungsgrad beschreibt den Anteil der zugeführten Energie, der in nützliche Arbeit umgesetzt wird.
 
 **Formel:**
+
+$\eta = \frac{P_{\text{nutz}}}{P_{\text{zu}}} \cdot 100\%$
 
 - **η** = Wirkungsgrad (%)
 - **P_nutz** = Nutzleistung (Watt)
