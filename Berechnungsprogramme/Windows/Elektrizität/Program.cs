@@ -1,10 +1,18 @@
-﻿namespace Elektrizität
+﻿using System;
+
+namespace Elektrizität
 {
     public class Program 
     {
-        public static void Main(string[] args)
+        
+        static void Main(string[] args)
         {
-            
+            int input = Convert.ToInt32(Console.ReadLine());
+            switch (input)
+            {
+                
+                default:
+            }
         }
     }
 }
