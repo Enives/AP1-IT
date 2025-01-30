@@ -1,5 +1,13 @@
-
 # Elektrizitätsberechnung mit Formeln und Code
+
+## Gliederung:
+- **Ohmsches Gesetz**
+- **Leistung**
+- **Energie**
+- **Arbeiten mit Wechselstrom (AC)**
+- **Wirkungsgrad**
+- **Stromstärke (Ampere)**
+- **Spannung (Volt)**
 
 ## Übersicht der Formeln
 
@@ -13,8 +21,6 @@ $U = R \cdot I$
 - **U** = Spannung (Volt)
 - **R** = Widerstand (Ohm)
 - **I** = Stromstärke (Ampere)
-
-Umstellen der Formel:
 
 ### 2. Leistung
 Die elektrische Leistung beschreibt, wie viel Energie pro Zeiteinheit verbraucht wird.
@@ -58,10 +64,33 @@ Der Wirkungsgrad beschreibt den Anteil der zugeführten Energie, der in nützlic
 
 **Formel:**
 
-$\eta = \frac{P_{\text{nutz}}}{P_{\text{zu}}} \cdot 100\%$
+$\eta = (\frac{P_{\text{nutz}}}{P_{\text{zu}}}) \cdot 100\%$
 
 - **η** = Wirkungsgrad (%)
 - **P_nutz** = Nutzleistung (Watt)
 - **P_zugeführt** = Zugeführte Leistung (Watt)
 
----
+### 6. Stromstärke (Ampere)
+Die Stromstärke  gibt an, wie viel elektrische Ladung  in einer bestimmten Zeit  durch einen Leiter fließt und wird in Ampere (A) gemessen.
+
+**Formel:**
+
+$I = \frac{P}{U}$
+
+- **I** = Stromstärke (Ampere)
+- **P** = Leistung (Watt)
+- **U** = Spannung (Volt)
+
+### 7. Spannung (Volt)
+
+Die elektrische Spannung gibt an, wie viel Energie pro Ladungseinheit zwischen zwei Punkten im Stromkreis vorhanden ist. Sie wird in Volt (V) gemessen.
+
+**Formel:**  
+
+$U = \frac{W}{Q}$
+
+- **U** = Spannung (Volt)
+- **P** = Leistung (Watt)
+- **I** = Stromstärke (Ampere)
+
+  ---
