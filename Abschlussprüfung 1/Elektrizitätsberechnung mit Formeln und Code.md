@@ -7,7 +7,8 @@
 - **Energie**
 - **Arbeiten mit Wechselstrom (AC)**
 - **Wirkungsgrad**
-- **Stromstärke**
+- **Stromstärke (Ampere)**
+- **Spannung (Volt)**
 
 ## Übersicht der Formeln
 
