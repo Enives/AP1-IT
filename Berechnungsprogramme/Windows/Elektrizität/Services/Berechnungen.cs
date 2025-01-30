@@ -9,7 +9,7 @@ namespace Elektrizität
 
         public static string Leistung(double a, double b)
         {
-            return $"{a * b} Watt"
+            return $"{a * b} Watt";
         }
     }
 }
