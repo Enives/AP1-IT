@@ -8,6 +8,8 @@ Das Ohmsche Gesetz beschreibt die Beziehung zwischen Spannung, Stromstärke und 
 
 **Formel:**
 
+$U = R \cdot I$
+
 - **U** = Spannung (Volt)
 - **R** = Widerstand (Ohm)
 - **I** = Stromstärke (Ampere)
@@ -38,6 +40,11 @@ $E = U \cdot I \cdot t$
 - **t** = Zeit (Sekunden)
 
 ### 4. Arbeiten mit Wechselstrom (AC)
+
+**Formel:**
+
+$U_{\text{eff}} = \frac{U_{\text{max}}}{\sqrt{2}}, \quad I_{\text{eff}} = \frac{I_{\text{max}}}{\sqrt{2}}$
+
 Für Wechselstrom (AC) müssen oft die Effektivwerte (RMS – Root Mean Square) verwendet werden:
 
 - **Effektivwert der Spannung (U_eff):**
