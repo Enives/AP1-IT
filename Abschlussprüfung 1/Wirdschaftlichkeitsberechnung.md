@@ -10,21 +10,18 @@ Relevante Aspekte:
 
 ## 2. Energiekostenberechnung
 ### Formel:
-\[
-\text{Energiekosten} = \text{Energieverbrauch (kWh)} \times \text{Energiepreis (€/kWh)}
-\]
+$\text{Energiekosten} = \text{Energieverbrauch (kWh)} \times \text{Energiepreis} \ (\text{€/kWh})$
 
 ### Beispiel:
 - Jahresverbrauch: 12.000 kWh  
 - Strompreis: 0,35 €/kWh  
-\[
-12.000 \, \text{kWh} \times 0,35 \, \text{€/kWh} = 4.200 \, \text{€/Jahr}
-\]
+
+$\text{Energiekosten} = 12.000 \times 0,35 = 4.200 \, \text{€/Jahr}$
 
 ### Faktoren:
-- Energieeffizienz der Geräte
-- Tarifstruktur (Grundgebühren, variable Kosten)
-- Saisonale Schwankungen
+- Energieeffizienz der Geräte  
+- Tarifstruktur (Grundgebühren, variable Kosten)  
+- Saisonale Schwankungen  
 
 ---
 
@@ -33,54 +30,49 @@ Relevante Aspekte:
 Bestimmung der Zeitdauer, bis die Investitionskosten durch Einsparungen gedeckt sind.
 
 ### Formel:
-\[
-\text{Amortisationszeit (Jahre)} = \frac{\text{Investitionskosten (€)}}{\text{Jährliche Einsparungen (€/Jahr)}}
-\]
+$\text{Amortisationszeit (Jahre)} = \frac{\text{Investitionskosten (€)}}{\text{Jährliche Einsparungen (€/Jahr)}}$
 
 ### Beispiel:
 - Investition in Solaranlage: 15.000 €  
 - Jährliche Einsparung: 2.500 €  
-\[
-\frac{15.000 \, \text{€}}{2.500 \, \text{€/Jahr}} = 6 \, \text{Jahre}
-\]
+
+$\text{Amortisationszeit} = \frac{15.000}{2.500} = 6 \, \text{Jahre}$
 
 ### Kritische Aspekte:
-- Dynamische Energiepreise
-- Wartungs- und Instandhaltungskosten
-- Förderungen/Subventionen
+- Dynamische Energiepreise  
+- Wartungs- und Instandhaltungskosten  
+- Förderungen/Subventionen  
 
 ---
 
 ## 4. Erweiterte Methoden
 ### Kapitalwertmethode (NPV):
-\[
-\text{NPV} = \sum_{t=0}^{n} \frac{\text{Einnahmen}_t - \text{Ausgaben}_t}{(1 + i)^t}
-\]
-- \(i\): Zinssatz  
-- \(t\): Zeitperiode
+$\text{NPV} = \sum_{t=0}^{n} \frac{\text{Einnahmen}_t - \text{Ausgaben}_t}{(1 + i)^t}$
+- \( i \): Zinssatz  
+- \( t \): Zeitperiode  
 
 ### Interner Zinsfuß (IRR):
-Zinssatz, bei dem der Kapitalwert der Investition null beträgt.
+Der **interne Zinsfuß (IRR)** ist der Zinssatz, bei dem der Kapitalwert der Investition null beträgt:
+
+$\sum_{t=0}^{n} \frac{\text{Einnahmen}_t - \text{Ausgaben}_t}{(1 + \text{IRR})^t} = 0$
 
 ---
 
 ## 5. Praxisbeispiel: LED-Beleuchtung vs. Halogen
-| **Parameter**          | **Halogen** | **LED**     |
-|-------------------------|-------------|-------------|
-| Anschaffungskosten      | 500 €       | 1.200 €     |
-| Jahresstromverbrauch    | 1.000 kWh   | 200 kWh     |
-| Stromkosten (0,35 €/kWh)| 350 €/Jahr  | 70 €/Jahr   |
-| **Jährliche Einsparung**| –           | 280 €/Jahr  |
+| **Parameter**          | **Halogen**  | **LED**      |
+|-----------------------|-------------|-------------|
+| Anschaffungskosten    | 500 €       | 1.200 €     |
+| Jahresstromverbrauch  | 1.000 kWh   | 200 kWh     |
+| Stromkosten (0,35 €/kWh) | 350 €/Jahr  | 70 €/Jahr   |
+| **Jährliche Einsparung** | –           | 280 €/Jahr  |
 
-**Amortisationszeit**:  
-\[
-\frac{1.200 \, \text{€} - 500 \, \text{€}}{280 \, \text{€/Jahr}} \approx 2,5 \, \text{Jahre}
-\]
+### **Amortisationszeit für LED-Beleuchtung**:
+$\text{Amortisationszeit} = \frac{1.200 - 500}{280} \approx 2,5 \, \text{Jahre}$
 
 ---
 
 ## 6. Fazit
 Wirtschaftlichkeitsberechnungen sind essenziell für:
-- Kostentransparenz bei Energieprojekten,
-- Entscheidungsgrundlagen für Investitionen,
-- Nachhaltigkeitsbewertung (ökonomisch & ökologisch).
+- Kostentransparenz bei Energieprojekten,  
+- Entscheidungsgrundlagen für Investitionen,  
+- Nachhaltigkeitsbewertung (ökonomisch & ökologisch).  
