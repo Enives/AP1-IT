@@ -48,11 +48,13 @@ Ein **Netzplan** ist ein grafisches Werkzeug zur Planung, Steuerung und Überwac
 ### 1. **Vorgangsknotennetzplan (AON)**
 - **Vorgänge** werden als **Knoten** dargestellt.
 - **Abhängigkeiten** werden als **Pfeile** zwischen den Knoten gezeigt.
+
 [A] --> [B] --> [C]
 
 ### 2. **Vorgangspfeilnetzplan (AOA)**
 - **Vorgänge** werden als **Pfeile** dargestellt.
 - **Ereignisse** (Knoten) markieren den Beginn und das Ende von Vorgängen.
+
 (Start) --> A --> (Ereignis 1) --> B --> (Ereignis 2) --> C --> (Ende)
 
 ---
@@ -73,7 +75,7 @@ Ein **Netzplan** ist ein grafisches Werkzeug zur Planung, Steuerung und Überwac
 - **Freier Puffer**: Zeit, um die ein Vorgang verschoben werden kann, ohne nachfolgende Vorgänge zu beeinflussen.
 
 ### Formel:
-$ \text{Gesamtpuffer} = \text{spätester Endtermin} - \text{frühester Endtermin} $
+$\text{Gesamtpuffer} = \text{spätester Endtermin} - \text{frühester Endtermin}$
 
 ---
 
