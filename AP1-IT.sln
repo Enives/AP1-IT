@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Berechnungsprogramme", "Berechnungsprogramme", "{96C9BA6D-A10E-330A-CAD0-C75ED864BE83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Windows", "Windows", "{37028184-EB03-0E1C-E8CA-6D1E661915BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elektrizität", "Berechnungsprogramme\Windows\Elektrizität\Elektrizität.csproj", "{6B64D602-B1F4-E559-3BEE-E06411851365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B64D602-B1F4-E559-3BEE-E06411851365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B64D602-B1F4-E559-3BEE-E06411851365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B64D602-B1F4-E559-3BEE-E06411851365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B64D602-B1F4-E559-3BEE-E06411851365}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{37028184-EB03-0E1C-E8CA-6D1E661915BB} = {96C9BA6D-A10E-330A-CAD0-C75ED864BE83}
+		{6B64D602-B1F4-E559-3BEE-E06411851365} = {37028184-EB03-0E1C-E8CA-6D1E661915BB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AA3419C-421A-4DF2-83FD-B74902560423}
+	EndGlobalSection
+EndGlobal

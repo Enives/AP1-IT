@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/Expansion/Code/git/AP1-IT/Berechnungsprogramme/Windows/Elektrizität/Elektrizität.csproj": {}
+    "/Volumes/Expansion/Code/git/AP1-IT/Berechnungsprogramme/Windows/Elektrizität/Elektrizität.csproj": {}
   },
   "projects": {
-    "/Volumes/Expansion/Code/git/AP1-IT/Berechnungsprogramme/Windows/Elektrizität/Elektrizität.csproj": {
+    "/Volumes/Expansion/Code/git/AP1-IT/Berechnungsprogramme/Windows/Elektrizität/Elektrizität.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/Expansion/Code/git/AP1-IT/Berechnungsprogramme/Windows/Elektrizität/Elektrizität.csproj",
-        "projectName": "Elektrizität",
-        "projectPath": "/Volumes/Expansion/Code/git/AP1-IT/Berechnungsprogramme/Windows/Elektrizität/Elektrizität.csproj",
+        "projectUniqueName": "/Volumes/Expansion/Code/git/AP1-IT/Berechnungsprogramme/Windows/Elektrizität/Elektrizität.csproj",
+        "projectName": "Elektrizität",
+        "projectPath": "/Volumes/Expansion/Code/git/AP1-IT/Berechnungsprogramme/Windows/Elektrizität/Elektrizität.csproj",
         "packagesPath": "/Users/tim/.nuget/packages/",
-        "outputPath": "/Volumes/Expansion/Code/git/AP1-IT/Berechnungsprogramme/Windows/Elektrizität/obj/",
+        "outputPath": "/Volumes/Expansion/Code/git/AP1-IT/Berechnungsprogramme/Windows/Elektrizität/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tim/.nuget/NuGet/NuGet.Config"
