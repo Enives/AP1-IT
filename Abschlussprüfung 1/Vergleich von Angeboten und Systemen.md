@@ -15,25 +15,25 @@ Der Vergleich von Angeboten und Systemen ist entscheidend, um die beste Lösung 
 - **Qualität**: Zuverlässigkeit ($R$), Haltbarkeit ($T_{\text{life}}$).  
 
 ### Beispielformel für Gesamtkosten:  
-$ C_{\text{gesamt}} = C_A + C_B + C_W $
+$C_{\text{gesamt}} = C_A + C_B + C_W$
 
 ---
 
 ## 3. Methoden
 ### 1. Kosten-Nutzen-Analyse  
-$ \text{Kosten-Nutzen-Verhältnis} = \frac{\text{Nutzen}}{\text{Gesamtkosten}} $  
+$\text{Kosten-Nutzen-Verhältnis} = \frac{\text{Nutzen}}{\text{Gesamtkosten}}$  
 
 **Beispiel**:  
 - Nutzen = 15.000 €/Jahr, Kosten = 50.000 €  
-- Verhältnis: $ \frac{15.000}{50.000} = 0,3 $  
+- Verhältnis: $\frac{15.000}{50.000} = 0,3$  
 
 ### 2. Nutzwertanalyse  
-$ \text{Gesamtwert} = \sum (w_i \times p_i) $  
+$\text{Gesamtwert} = \sum (w_i \times p_i)$  
 - $w_i$ = Gewichtung des Kriteriums $i$  
 - $p_i$ = Punkte des Angebots für Kriterium $i$  
 
 ### 3. Amortisationszeit  
-$ \text{Amortisationszeit} = \frac{\text{Investitionskosten}}{\text{Jährliche Einsparung}} $  
+$\text{Amortisationszeit} = \frac{\text{Investitionskosten}}{\text{Jährliche Einsparung}}$  
 
 ---
 
@@ -44,7 +44,7 @@ $ \text{Amortisationszeit} = \frac{\text{Investitionskosten}}{\text{Jährliche E
 | Wärmepumpe          | 18.000 €        | 1.800 €             |  
 
 **Amortisationszeit Wärmepumpe**:  
-$ \frac{18.000}{1.800} = 10 \ \text{Jahre} $
+$\frac{18.000}{1.800} = 10 \ \text{Jahre}$
 
 ---
 
